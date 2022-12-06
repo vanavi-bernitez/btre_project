@@ -2,7 +2,7 @@ from django.db import models
 from datetime import datetime
 from realtors.models import Realtor #from folder realtors, file models.py import model Reaaltor
 
-# I define a model with a class
+# I define a model using a class
 
 class Listing(models.Model):
     # ForeignKey(0,1)   
@@ -32,6 +32,6 @@ class Listing(models.Model):
     is_published = models.BooleanField(default = True)
     list_date = models.DateTimeField(default = datetime.now, blank = True)
 
-    #what i'm gonna display in the admin area
+    #what i'm gonna display in the admin area. This is the inf i show. otherwise, shows the id
     def __str__(self):
-        return self.title
+        return self.title  

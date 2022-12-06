@@ -10,5 +10,6 @@ class Realtor(models.Model):
     is_mvp = models.BooleanField(default = False)
     hire_date = models.DateTimeField(default = datetime.now, blank = True)
 
+    #what i'm gonna display in the admin area. This is the inf i show
     def __str__(self):
         return self.name
