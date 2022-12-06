@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponse  #solo lo use al inicio para probar
 
 """
 def name(took a request):
