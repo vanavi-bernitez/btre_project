@@ -15,7 +15,7 @@
     <!-- Lightbox -->
     <link rel="stylesheet" href="{% static 'css/lightbox.min.css' %}">
 
-    <title>Real State</title> <!--Titulo de la pestaña-->
+    <title>Real State {% block title %} {% endblock %}</title> <!--Titulo de la pestaña-->
 </head>
 <body>
 <!--Body is where i output any template extended --> 
