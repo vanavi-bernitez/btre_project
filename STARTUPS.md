@@ -24,11 +24,13 @@ Encargarse del proceso de autenticación de clientes usando reconocimiento facia
 
 ## AI-driven software development
 Radiobotics | https://www.radiobotics.com/, https://thehub.io/jobs/637df2270b1fbafbd24e26a4
-Lectura y análisis de rayos-x 
+Lectura y análisis de rayos-x.
+
 Lucida Medical | https://lucidamedical.com/
-Permite a los radiólogos encontrar cáncer de forma más rápida, precisa y consistente
+Permite a los radiólogos encontrar cáncer de forma más rápida, precisa y consistente.
+
 Visionary | https://www.visionairy.io/
-Control de calidad automatizado de placas electrónicas
+Control de calidad automatizado de placas electrónicas.
 
 ## Ideas de Startups
 - Comparar precios de supermercados, droguerías, restaurantes. De forma anónima los usuarios suben una foto del producto y del precio. Después de ser validado se actualiza el comparador de precios. Puede ser comparación por producto o por marca. Centrarlo en una única ciudad al inicio para manejar un catálogo actualizado y poder incluir las cadenas medianas también. 
