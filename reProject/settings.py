@@ -149,6 +149,7 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger'
 }
 
+#THIS GONNA BE ONLY IN THE LOCAL_SETTINGS FILE FROM THE REMOTE SERVER
 #Email configuration
 # EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = 587
@@ -157,6 +158,6 @@ MESSAGE_TAGS = {
 # EMAIL_USE_TLS = True
 
 try:
-    from .local_settings import *
+    from .local_settings import *  #this .local_settings file is only created on the server
 except ImportError:
     pass
