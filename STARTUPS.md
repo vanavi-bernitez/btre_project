@@ -1,5 +1,4 @@
-# btre_project
-
+## Startups
 Vinehealth | https://www.vinehealth.ai/
 App móvil para pacientes con cáncer que les permite monitorear y reportar su sintomatología. 
 -Recomendaciones de cuidado 
@@ -23,15 +22,15 @@ Encargarse del proceso de autenticación de clientes usando reconocimiento facia
 - La próxima vez que quiera adquirir un servicio en cualquier otro banco, solo es necesario el número de documento.
 - También para aplicaciones de compra/venta serviría para garantizar si es un cliente o compañía real. Este sería para movimientos de dinero significativos, ej: compra de una casa, un carro…etc. 
 
-AI-driven software development
+## AI-driven software development
 Radiobotics | https://www.radiobotics.com/, https://thehub.io/jobs/637df2270b1fbafbd24e26a4
-Lectura y análisis de rayos-x.
+Lectura y análisis de rayos-x 
 Lucida Medical | https://lucidamedical.com/
 Permite a los radiólogos encontrar cáncer de forma más rápida, precisa y consistente
 Visionary | https://www.visionairy.io/
 Control de calidad automatizado de placas electrónicas
 
-Ideas de Startups
+## Ideas de Startups
 - Comparar precios de supermercados, droguerías, restaurantes. De forma anónima los usuarios suben una foto del producto y del precio. Después de ser validado se actualiza el comparador de precios. Puede ser comparación por producto o por marca. Centrarlo en una única ciudad al inicio para manejar un catálogo actualizado y poder incluir las cadenas medianas también. 
 - Analizar qué tan rentable es poner un negocio en determinado lugar analizando que tan cerca se encuentran otros negocios relacionados.
 - Basándose en un análisis de los gustos y en lo que es bueno el usuario, hacer recomendaciones o lluvia de ideas de emprendimientos. Que sea como un juego; primer nivel: montar una tienda, segundo nivel: un supermercado… 
